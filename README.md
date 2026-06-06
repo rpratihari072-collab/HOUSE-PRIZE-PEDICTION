@@ -10,6 +10,7 @@ Achieved improved prediction accuracy through feature selection
 6. Selected Features (Correlation and Importance analysis).
 7. Optimized (Using Randomized Search).
 8. Validated (Using Residual Plots and \(R^{2}\) scores).
+<img width="767" height="669" alt="corelation hitmap" src="https://github.com/user-attachments/assets/305ee2c3-f31a-41ad-9609-e23667cfcd7a" />
 
 <img width="532" height="364" alt="Screenshot 2026-06-06 085743" src="https://github.com/user-attachments/assets/5075bde1-af22-4953-9bd1-8ceced7b9ab8" />
 <img width="727" height="453" alt="Screenshot 2026-06-06 085721" src="https://github.com/user-attachments/assets/66f21efc-5bc4-45bd-85f1-57678ee713cf" />
